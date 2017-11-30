@@ -1,5 +1,4 @@
 package com.example.ravy.saythat;
-//TODO create a wrapper for this
 
 import android.content.Context;
 import android.graphics.Bitmap;
